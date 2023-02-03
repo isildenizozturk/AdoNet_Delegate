@@ -1,7 +1,7 @@
 # AdoNet_Delegate
 
 ## Data Transfer Between WinForms using Delegate and 
-performing insert, update, delete operations on Northwind database according to this data.
+Performing insert, update, delete operations on Northwind database according to this data.
 
 ## Screenshots of winforms designs
 
